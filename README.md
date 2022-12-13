@@ -24,13 +24,13 @@ sudo apt install nodejs
 npm i automerge@1.0.1-preview.7
 ```
 
-4. Clone the `amrw` repository to use the tool:
+4. Clone the `ampatch` repository to use the tool:
 
 ```
 git clone https://github.com/fabiobosisio/ampatch.git
 ```
 
-5. Use the editor inside the `/home/user/ampatch` directory
+5. Use the ampatch inside the `/home/user/ampatch` directory
 
 The versions used in the tests were:
 -   NPM v8.13.2
